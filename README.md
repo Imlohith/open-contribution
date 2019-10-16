@@ -1,6 +1,6 @@
-## Open for contribution  :tada:
+## Open for contribution  :tada::tada:
 
->This project is open for any kind of contribution from react js develop
+>This project is open for any kind of contribution from react js developer
 
 This project is tend to have perfect project structure when using redux in react application. 
 
